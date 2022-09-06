@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=sylinder&color=auto&height=30&section=header&text=test&fontSize=20)
 ### Hi there 👋
 
 
@@ -27,7 +28,7 @@
 
 
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 
