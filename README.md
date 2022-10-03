@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=sylinder&color=auto&height=30&section=header&text=test&fontSize=20)
-### Hi there 👋
+
+### 안녕하세요. 홍기대입니다. 👋
 
 
 #### 🌱 Language
@@ -17,11 +17,7 @@
 ### ⚡ Apache Project
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Druid-29F1FB?style=flat-square&logo=Apache Druid&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Cassandra-1287B1?style=flat-square&logo=Apache Cassandra&logoColor=white"/></a>
-
-
 <img src="https://img.shields.io/badge/Apache Hive-#FDEE21?style=flat-square&logo=Apache Hive&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&"/></a>
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&"/></a>
