@@ -2,7 +2,7 @@
 ### 안녕하세요. 홍기대입니다. 👋
 
 
-#### 🌱 Language
+<!-- #### 🌱 Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/></a>
 
