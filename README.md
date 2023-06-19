@@ -2,8 +2,6 @@
 <!-- ### 안녕하세요. 홍기대입니다. 👋 -->
 
 ![shiba](https://user-images.githubusercontent.com/70564639/218247525-004b8cd3-a16d-4ee4-9c78-2970174cc190.gif)
-![shiba](https://user-images.githubusercontent.com/70564639/218247525-004b8cd3-a16d-4ee4-9c78-2970174cc190.gif)
-![shiba](https://user-images.githubusercontent.com/70564639/218247525-004b8cd3-a16d-4ee4-9c78-2970174cc190.gif)
 
 <!-- #### 🌱 Language
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
